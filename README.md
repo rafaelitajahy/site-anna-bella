@@ -1,2 +1,2 @@
 # site-anna-bella
-[Anna Bella](anna-bella.png)
+![Anna Bella](anna-bella.png)
